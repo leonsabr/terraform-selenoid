@@ -1,0 +1,9 @@
+"opera": {
+  "default": "55.0",
+  "versions": {
+    "55.0": {
+      "image": "selenoid/opera:55.0",
+      "port": "4444"
+    }
+  }
+},
